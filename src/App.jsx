@@ -10,6 +10,7 @@ import '../node_modules/leaflet/dist/images/marker-shadow.png'
 import '../node_modules/leaflet/dist/images/layers-2x.png'
 import '../node_modules/leaflet/dist/images/layers.png'
 import '../node_modules/leaflet/dist/images/marker-icon-2x.png'
+import './index.css'
 
 function App() {
   return (
