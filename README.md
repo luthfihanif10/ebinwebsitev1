@@ -25,27 +25,63 @@
     </tr>
     <tr>
         <td>1.</td>
+        <td>I Dewa Made Manu Pradyana</td>
+        <td>18221047</td>
+        <td><a href="mailto:18221047@std.stei.itb.ac.id">18221047@std.stei.itb.ac.id</a></td>
+    </tr>
+    <tr>
+        <td>2.</td>
         <td>Ibnu Khairy Algifari</td>
         <td>18221091</td>
         <td><a href="mailto:18221091@std.stei.itb.ac.id">18221091@std.stei.itb.ac.id</a></td>
     </tr>
     <tr>
-        <td>2.</td>
+        <td>3.</td>
         <td>Muhammad Aliefnaufal Permana</td>
         <td>18221105</td>
         <td><a href="mailto:18221105@std.stei.itb.ac.id">18221105@std.stei.itb.ac.id</a></td>
     </tr>
     <tr>
-        <td>3.</td>
+        <td>4.</td>
         <td>Samuel Eric Yonatan</td>
         <td>18221133</td>
         <td><a href="mailto:18221133@std.stei.itb.ac.id">18221133@std.stei.itb.ac.id</a></td>
     </tr>
     <tr>
-        <td>6.</td>
+        <td>5.</td>
         <td>Luthfi Hanif</td>
         <td>18221151</td>
         <td><a href="mailto:18221151@std.stei.itb.ac.id">18221151@std.stei.itb.ac.id</a></td>
     </tr>
 </table>
 </p>
+
+<br>
+
+## **How to Run**
+
+1. Open terminal</br>
+
+2. Clone repository ini</br>
+
+```bash
+    git clone https://github.com/luthfihanif10/ebinwebsitev1.git
+```
+
+3. Masuk ke local repository folder</br>
+
+```bash
+    cd ebinwebsitev1
+```
+
+4. Install all dependencies</br>
+
+```bash
+    npm install
+```
+
+5. Run aplikasi</br>
+
+```bash
+    npm run dev
+```
